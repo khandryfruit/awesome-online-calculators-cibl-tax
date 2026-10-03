@@ -39,6 +39,7 @@
 - **Embeddable widgets** - add calculators to your own website
 - **No signup required** - instant access to all calculators
 - **Mobile-optimized** - perfect experience on any device
+- [KDFTek](https://kdftek.com/tools/) — 200+ free browser-based calculators (finance, health, math, conversions), no signup.
 
 ## Math & Scientific
 
